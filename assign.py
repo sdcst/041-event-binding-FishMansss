@@ -1,6 +1,6 @@
-import tkinter as tk
+import tkinter
 from tkinter import *
-import playsound as p
+import playsound
 from playsound import *
 window = Tk()
 window.geometry("250x50")
